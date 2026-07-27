@@ -1,0 +1,218 @@
+[
+  {
+    "intent": "greeting",
+    "triggers": ["hi", "hello", "hey", "good morning", "good evening", "namaste", "vanakkam"],
+    "reply": "Hello! Welcome to Universes — The Global Expansion, Coimbatore's trusted loan advisory. I can help you with:\n\n• Business & CGTMSE Loans\n• Home & Car Loans\n• Collateral-Free Loans\n• Loan Against Property\n\nWhat would you like to know?",
+    "quickReplies": ["Business Loan", "Home Loan", "Car Loan", "CGTMSE", "Interest Rates", "Talk to a human"]
+  },
+  {
+    "intent": "about",
+    "triggers": ["about universes", "who are you", "about you", "tell me about", "about company", "what is universes"],
+    "reply": "Universes — The Global Expansion is an authorised channel partner for banks & NBFCs in Coimbatore, Tamil Nadu. With 15+ years of experience, we've helped 500+ customers secure the best loan deals at competitive rates.\n\nWe represent multiple banks and NBFCs to find you the lowest interest rate. Our services include business loans, home loans, car loans, CGTMSE, collateral-free loans, and loan against property.\n\n📍 105, Annapurna Layout, New Siddhapudur, Coimbatore – 641044",
+    "quickReplies": ["Our services", "Interest rates", "Talk to an agent"]
+  },
+  {
+    "intent": "business_loan_eligibility",
+    "triggers": ["business loan eligibility", "who can apply business loan", "business loan documents", "eligibility for business loan", "can i get business loan", "business loan eligibility criteria", "am i eligible"],
+    "reply": "Business Loan Eligibility in Coimbatore:\n\n✅ MSMEs, traders, manufacturers, self-employed professionals\n✅ Minimum 2 years of business operations\n✅ Good credit score (CIBIL 650+)\n✅ Minimum annual turnover as per lender norms\n\nDocuments needed:\n• KYC (Aadhaar + PAN)\n• 2 years ITR\n• 6 months bank statements\n• Business proof (GST registration, trade license)\n\nInterest starts from 11% p.a. Up to ₹50 Lakh.\n\nWant us to check your eligibility?",
+    "quickReplies": ["Check my eligibility", "Interest rates", "Talk to an agent"]
+  },
+  {
+    "intent": "home_loan_eligibility",
+    "triggers": ["home loan eligibility", "who can apply home loan", "home loan documents", "eligibility for home loan", "can i get home loan", "home loan eligibility criteria", "buy house"],
+    "reply": "Home Loan Eligibility in Coimbatore:\n\n✅ Salaried individuals (government, private, MNC)\n✅ Self-employed professionals & business owners\n✅ Age: 21–65 years\n✅ Minimum income: ₹25,000/month (varies by lender)\n✅ CIBIL score: 650+\n\nDocuments:\n• KYC (Aadhaar + PAN)\n• Salary slips (3 months) or ITR (2 years)\n• Bank statements (6 months)\n• Property documents (sale deed, approval plan)\n\nRates from 8.5% p.a. Tenure up to 30 years. Up to ₹10 Crore.\n\nWant a personalized quote?",
+    "quickReplies": ["Calculate EMI", "Get a quote", "Talk to an agent"]
+  },
+  {
+    "intent": "car_loan_eligibility",
+    "triggers": ["car loan eligibility", "who can apply car loan", "car loan documents", "eligibility for car loan", "buy car loan", "new car loan", "used car loan"],
+    "reply": "Car Loan Eligibility in Coimbatore:\n\n✅ Salaried & self-employed individuals\n✅ Age: 21–60 years (salaried), 21–65 (self-employed)\n✅ Minimum income: ₹20,000/month\n✅ CIBIL score: 650+\n\nDocuments:\n• KYC (Aadhaar + PAN)\n• Income proof (salary slips / ITR)\n• Vehicle quotation (for new cars)\n• Bank statements (6 months)\n\nRates from 8.75% p.a. Tenure up to 7 years. Up to ₹1 Crore.\n\nWe also offer used car loans and car refinancing.",
+    "quickReplies": ["Calculate EMI", "Used car loan", "Talk to an agent"]
+  },
+  {
+    "intent": "cgtmse_info",
+    "triggers": ["cgtmse", "cgtmse loan", "government loan", "credit guarantee", "cgtmse scheme", "cgtmse loan eligibility", "cgtmse loan documents", "msme loan", "udyam loan"],
+    "reply": "CGTMSE Loan — Government-Backed Collateral-Free Loan:\n\nCGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises) provides 100% collateral-free loans for MSMEs.\n\n✅ Loan amount: Up to ₹5 Crore\n✅ 100% collateral-free — no assets needed\n✅ Government credit guarantee\n✅ Reduced processing fees\n\nEligibility:\n• MSME with valid Udyam registration\n• Minimum 2 years of business operations\n• Good credit history\n\nDocuments: Udyam registration, KYC, 2 years ITR, business plan.\n\nThis is one of the best schemes for small businesses in Tamil Nadu.",
+    "quickReplies": ["Apply for CGTMSE", "Collateral-free loan", "Talk to an agent"]
+  },
+  {
+    "intent": "collateral_free_info",
+    "triggers": ["collateral free loan", "no collateral loan", "without collateral", "unsecured loan", "without guarantee", "no guarantee loan", "without pledging"],
+    "reply": "Collateral-Free Loans in Coimbatore:\n\nGet financed without pledging any assets. Available for business owners with 2+ years of operations.\n\n✅ Up to ₹50 Lakh\n✅ No assets required\n✅ Quick processing — 48 hours\n✅ Minimal paperwork\n\nEligibility:\n• Business owner with 2+ years track record\n• Good CIBIL score (650+)\n• KYC, ITR, bank statements\n\nRates from 12% p.a. Tenure up to 5 years.\n\nWant to apply now?",
+    "quickReplies": ["Apply now", "CGTMSE loan", "Talk to an agent"]
+  },
+  {
+    "intent": "interest_rates",
+    "triggers": ["interest rate", "what is the interest rate", "rate of interest", "interest", "rates", "current rate", "lowest rate", "best rate"],
+    "reply": "Current Interest Rates in Coimbatore:\n\n🏠 Home Loan: 8.5% p.a. onwards\n🚗 Car Loan: 8.75% p.a. onwards\n🏢 Loan Against Property: 9% p.a. onwards\n💼 Business Loan: 11% p.a. onwards\n🛡️ CGTMSE: 11% p.a. onwards\n🔓 Collateral-Free: 12% p.a. onwards\n👤 Personal Loan: 10.5% p.a. onwards\n\nRates depend on:\n• Your CIBIL score\n• Loan amount & tenure\n• Income profile\n• Lender chosen\n\nAs an authorised channel partner, we compare rates across multiple banks to get you the best deal. Want a personalized quote?",
+    "quickReplies": ["Get a quote", "Calculate EMI", "Talk to an agent"]
+  },
+  {
+    "intent": "emi_calculation",
+    "triggers": ["emi", "calculate emi", "monthly installment", "how much emi", "emi calculator", "emi amount", "monthly payment"],
+    "reply": "EMI depends on loan amount, interest rate, and tenure. Here are examples:\n\n🏠 Home Loan ₹50L, 8.5%, 20yr → ₹43,391/mo\n🏠 Home Loan ₹30L, 8.5%, 15yr → ₹29,584/mo\n🚗 Car Loan ₹8L, 9%, 5yr → ₹16,681/mo\n💼 Business Loan ₹25L, 11%, 4yr → ₹65,226/mo\n\nUse our EMI Calculator for exact figures. Or share your loan details and I'll help estimate.",
+    "quickReplies": ["Open EMI Calculator", "Get a quote", "Talk to an agent"]
+  },
+  {
+    "intent": "process",
+    "triggers": ["how to apply", "process", "application process", "how it works", "steps", "how does it work", "procedure"],
+    "reply": "Simple 4-Step Process:\n\n1️⃣ Fill the enquiry form or call us at +91 95431 40040\n2️⃣ Share your documents (we guide you on what's needed)\n3️⃣ We compare offers from multiple banks & NBFCs\n4️⃣ Get funds disbursed in as fast as 48 hours\n\nWe handle all the paperwork, negotiations, and follow-ups — completely free of charge.\n\nOur office: 105, Annapurna Layout, New Siddhapudur, Coimbatore – 641044",
+    "quickReplies": ["Start application", "Talk to an agent", "WhatsApp us"]
+  },
+  {
+    "intent": "documents",
+    "triggers": ["documents required", "what documents", "papers needed", "documentation", "what do i need", "docs needed"],
+    "reply": "Basic Documents Required:\n\n📋 Universal (all loans):\n• KYC — Aadhaar + PAN Card\n• Address proof\n• Passport-size photos\n\n📋 Income proof:\n• Salaried: Salary slips (3 months) + Form 16\n• Self-employed: 2 years ITR + Balance Sheet\n\n📋 Bank statements: Last 6 months\n\n📋 Loan-specific:\n• Home Loan: Property documents\n• Car Loan: Vehicle quotation\n• CGTMSE: Udyam registration + Business plan\n\nDon't worry — we'll guide you through exactly what you need for your specific loan.",
+    "quickReplies": ["Apply now", "Talk to an agent"]
+  },
+  {
+    "intent": "contact",
+    "triggers": ["contact", "phone number", "call", "whatsapp", "reach", "office address", "where are you", "location", "address", "coimbatore office"],
+    "reply": "Contact Universes — Coimbatore:\n\n📞 Phone: +91 95431 40040\n📱 WhatsApp: +91 95431 40040\n☎️ Landline: 0422 4203999\n\n📍 105/1, Annapurna Layout, New Siddhapudur, Coimbatore – 641044, Tamil Nadu\n\n🕐 Monday to Saturday: 9:30 AM – 6:30 PM\n🌐 universesloans.com\n\nWe're located in the heart of Coimbatore, easily accessible from all parts of the city.",
+    "quickReplies": ["Call now", "WhatsApp us", "Get directions"]
+  },
+  {
+    "intent": "od_cc",
+    "triggers": ["od", "cc", "overdraft", "cash credit", "dlod", "od cc facility", "working capital loan", "business overdraft"],
+    "reply": "Working Capital Solutions in Coimbatore:\n\nWe arrange OD (Overdraft), CC (Cash Credit), and DLOD facilities for businesses.\n\n✅ Interest charged only on utilized amount\n✅ Revolving credit facility\n✅ Flexible repayment\n✅ Up to ₹2 Crore\n\nBest for businesses needing day-to-day operational funding. Available for MSMEs, traders, and manufacturers.\n\nWant to know more?",
+    "quickReplies": ["Apply for OD/CC", "Business loan", "Talk to an agent"]
+  },
+  {
+    "intent": "loan_against_property",
+    "triggers": ["loan against property", "lap", "mortgage loan", "property loan", "against property", "property pledge"],
+    "reply": "Loan Against Property (LAP) in Coimbatore:\n\nLeverage your residential or commercial property to access funds.\n\n✅ Up to ₹5 Crore\n✅ Interest from 9% p.a.\n✅ Tenure up to 15 years\n✅ No restrictions on fund usage\n\nEligibility:\n• Property owners (residential or commercial)\n• Age: 25–65 years\n• Good CIBIL score\n\nDocuments: KYC, property documents (title deed, tax receipts), income proof, bank statements.\n\nCommon uses: business expansion, medical emergencies, education, wedding.",
+    "quickReplies": ["Apply for LAP", "Calculate EMI", "Talk to an agent"]
+  },
+  {
+    "intent": "balance_transfer",
+    "triggers": ["balance transfer", "transfer loan", "switch bank", "refinance", "lower emi", "reduce emi", "loan transfer"],
+    "reply": "Loan Balance Transfer in Coimbatore:\n\nAlready have a loan at a high rate? Transfer it to a bank offering lower interest.\n\n✅ Reduce your interest rate\n✅ Lower monthly EMIs\n✅ Available for home loans, car loans, LAP\n✅ Get top-up loan along with transfer\n\nWe compare rates across 15+ banks to find you the best transfer deal.\n\nExample: Transferring a ₹50L home loan from 9.5% to 8.5% can save you ₹5+ Lakh over the loan tenure.\n\nWant us to check if you can save?",
+    "quickReplies": ["Check my savings", "Home loan transfer", "Talk to an agent"]
+  },
+  {
+    "intent": "top_up_loan",
+    "triggers": ["top up", "top-up loan", "additional loan", "extra loan", "more loan", "loan top up"],
+    "reply": "Top-Up Loans in Coimbatore:\n\nNeed additional funds on top of your existing loan? A top-up loan lets you borrow more without closing your current loan.\n\n✅ Available on home loans, car loans, LAP\n✅ No new loan processing needed\n✅ Lower rates than personal loans\n✅ Quick disbursal\n\nEligibility: Existing loan with good repayment track record.\n\nWant to check your top-up eligibility?",
+    "quickReplies": ["Check eligibility", "Talk to an agent"]
+  },
+  {
+    "intent": "gold_loan",
+    "triggers": ["gold loan", "gold", "pledge gold", "gold mortgage", "jewellery loan"],
+    "reply": "Gold Loan in Coimbatore:\n\nGet instant funds by pledging your gold jewellery.\n\n✅ Instant disbursal — same day\n✅ No income proof needed\n✅ Minimal documentation\n✅ Interest rates from 7% p.a.\n\nEligibility: Any individual with gold jewellery (18K–24K).\n\nDocuments: KYC + Gold for valuation.\n\nLoan amount depends on gold weight and current market rate.",
+    "quickReplies": ["Apply for gold loan", "Talk to an agent"]
+  },
+  {
+    "intent": "personal_loan",
+    "triggers": ["personal loan", "individual loan", "personal finance", "need money", "urgent funds", "quick loan"],
+    "reply": "Personal Loan in Coimbatore:\n\nQuick, unsecured personal loans for salaried and self-employed individuals.\n\n✅ Up to ₹25 Lakh\n✅ No collateral required\n✅ Disbursal in 48 hours\n✅ Minimal documentation\n\nEligibility:\n• Salaried: ₹25,000+ monthly income\n• Self-employed: Good ITR\n• CIBIL score: 650+\n\nRates from 10.5% p.a. Tenure up to 5 years.\n\nDocuments: KYC, income proof, bank statements.",
+    "quickReplies": ["Apply now", "Calculate EMI", "Talk to an agent"]
+  },
+  {
+    "intent": "education_loan",
+    "triggers": ["education loan", "study loan", "student loan", "study abroad", "higher education"],
+    "reply": "Education Loan in Coimbatore:\n\nFinance your or your child's higher education — in India or abroad.\n\n✅ Up to ₹20 Lakh (India) / ₹1 Crore (abroad)\n✅ Competitive interest rates\n✅ Moratorium period available\n✅ Tax benefits under Section 80E\n\nEligibility:\n• Indian national with confirmed admission\n• Co-applicant (parent/guardian) required\n\nDocuments: Admission letter, fee structure, KYC, income proof of co-applicant.\n\nWant to know more?",
+    "quickReplies": ["Apply for education loan", "Talk to an agent"]
+  },
+  {
+    "intent": "prepayment",
+    "triggers": ["prepay", "prepayment", "foreclosure", "close loan early", "part payment", "pre-closure"],
+    "reply": "Loan Prepayment in Coimbatore:\n\nYou can prepay or foreclose your loan to save on interest.\n\n✅ Home loan: No prepayment penalty (floating rate)\n✅ Car/Business loan: 2-5% foreclosure charges (varies by lender)\n✅ Part payment: Reduces principal and future EMIs\n\nWe can help you find lenders with minimal or zero prepayment charges.\n\nWant to discuss your options?",
+    "quickReplies": ["Talk to an agent", "Balance transfer"]
+  },
+  {
+    "intent": "cibil_score",
+    "triggers": ["cibil", "credit score", "cibil score", "credit report", "credit rating", "how to improve cibil"],
+    "reply": "CIBIL Score for Loans:\n\nYour CIBIL score (300–900) determines your loan eligibility and interest rate.\n\n✅ 750+: Best rates, easy approval\n✅ 650–749: Good, may need additional documents\n✅ Below 650: Difficult, higher rates\n\nHow to improve:\n• Pay EMIs on time (35% weight)\n• Keep credit utilization below 30%\n• Don't close old credit cards\n• Check your report for errors\n\nWe work with lenders who accept various score ranges. Even with 600+, we can help.\n\nCheck your free CIBIL score at universesloans.com",
+    "quickReplies": ["Check CIBIL score", "Talk to an agent"]
+  },
+  {
+    "intent": "processing_fee",
+    "triggers": ["processing fee", "charges", "how much charge", "fees", "service charge", "our fee", "cost"],
+    "reply": "Our Charges:\n\nUniverses charges ZERO fees to customers. Our service is free — we earn from the banks.\n\nHowever, lenders may charge:\n• Processing fee: 0.5% – 2% of loan amount\n• Legal/valuation charges: ₹2,000 – ₹10,000\n• Prepayment penalty: 0% – 5% (varies)\n\nWe negotiate to minimize these charges for you.\n\nNo hidden costs. No surprises.",
+    "quickReplies": ["Apply now", "Talk to an agent"]
+  },
+  {
+    "intent": "coimbatore_specific",
+    "triggers": ["coimbatore", "kovai", "tamil nadu", "tn", "local", "near me", "nearby", "in coimbatore"],
+    "reply": "Loans in Coimbatore — Universes is Your Local Expert:\n\nWe know Coimbatore's lending landscape intimately. Whether you're in:\n\n📍 RS Puram, Peelamedu, Singanallur, Gandhipuram, Saibaba Colony, or any part of Coimbatore\n\nWe serve all areas with:\n✅ Personal consultation at our office or your location\n✅ Relationships with 15+ banks & NBFCs in Tamil Nadu\n✅ Faster processing (we know the local branch managers)\n✅ Coimbatore-specific interest rates and schemes\n\nOur office: 105/1, Annapurna Layout, New Siddhapudur, Coimbatore – 641044\n\nCall: +91 95431 40040",
+    "quickReplies": ["Visit office", "Call now", "WhatsApp us"]
+  },
+  {
+    "intent": "whatsapp",
+    "triggers": ["whatsapp", "message on whatsapp", "chat on whatsapp", "whatsapp number", "wa.me"],
+    "reply": "Connect with us on WhatsApp:\n\n📱 +91 95431 40040\n\nYou can chat with our team directly for:\n• Quick loan consultation\n• Document submission\n• Rate comparison\n• Any loan-related queries\n\nClick below to start chatting!",
+    "quickReplies": ["Open WhatsApp", "Call instead"]
+  },
+  {
+    "intent": "apply_now",
+    "triggers": ["apply", "apply now", "start application", "enquiry", "enquiry form", "fill form", "get started", "register"],
+    "reply": "Great! Let's get started:\n\n📝 Fill our quick enquiry form — takes just 2 minutes.\n\nOr call us directly:\n📞 +91 95431 40040\n\nWe'll get back to you within 2 hours with the best loan options.\n\nNo obligation. No charges. Just expert advice.",
+    "quickReplies": ["Go to form", "Call now", "WhatsApp us"]
+  },
+  {
+    "intent": "working_capital",
+    "triggers": ["working capital", "business cash flow", "operational funds", "day to day", "running business", "business finance"],
+    "reply": "Working Capital Finance in Coimbatore:\n\nWe help businesses manage daily operations with:\n\n✅ Overdraft (OD) facility\n✅ Cash Credit (CC) facility\n✅ Bills discounting\n✅ Supply chain finance\n\nAvailable for MSMEs, traders, manufacturers, and exporters in Coimbatore.\n\nAmount: Up to ₹2 Crore\nInterest: Typically 10–11% p.a. (linked to bank benchmark rate)\n\nWant to discuss your working capital needs?",
+    "quickReplies": ["Apply for OD/CC", "Business loan", "Talk to an agent"]
+  },
+  {
+    "intent": "nri_loan",
+    "triggers": ["nri", "nri loan", "non resident", "nri home loan", "nri business loan", "overseas indian"],
+    "reply": "NRI Loan Services in Coimbatore:\n\nWe help NRIs (Non-Resident Indians) with:\n\n🏠 NRI Home Loan — Buy property in Coimbatore/India\n💼 NRI Business Loan — Fund your Indian business\n🏢 Loan Against Property — On existing Indian property\n\nEligibility: PIO/OCI card holders, Indian passport holders residing abroad.\n\nDocuments: Passport, visa, overseas income proof, NRE/NRO account details.\n\nWant to know more?",
+    "quickReplies": ["NRI home loan", "Talk to an agent"]
+  },
+  {
+    "intent": "startup_loan",
+    "triggers": ["startup", "new business", "startup loan", "entrepreneur", "new company", "starting business", "msme startup"],
+    "reply": "Startup & New Business Loans in Coimbatore:\n\nStarting a new business in Coimbatore? We help entrepreneurs with:\n\n✅ CGTMSE — Collateral-free up to ₹5 Crore\n✅ Mudra Loan — Up to ₹10 Lakh for micro enterprises\n✅ Startup India Loan — Government-backed scheme\n✅ Business term loans from multiple banks\n\nEligibility:\n• Business plan\n• Udyam/MSME registration\n• Promoter's KYC and financials\n\nCoimbatore has a thriving business ecosystem — textile, engineering, IT. We know the local market.\n\nWant to discuss your startup?",
+    "quickReplies": ["CGTMSE loan", "Mudra loan", "Talk to an agent"]
+  },
+  {
+    "intent": "tax_benefits",
+    "triggers": ["tax benefit", "tax saving", "tax deduction", "section 80c", "section 80e", "tax exemption"],
+    "reply": "Tax Benefits on Loans:\n\n🏠 Home Loan:\n• Section 80C: Up to ₹1.5 Lakh (principal repayment)\n• Section 24: Up to ₹2 Lakh (interest on self-occupied)\n\n📚 Education Loan:\n• Section 80E: Full interest deduction (no limit, 8 years)\n\n💼 Business Loan:\n• Interest is a business expense — fully deductible\n\nThese benefits can save you ₹50,000–₹3+ Lakh per year depending on your tax bracket.\n\nWant to understand how this applies to your specific situation?",
+    "quickReplies": ["Home loan details", "Education loan", "Talk to an agent"]
+  },
+  {
+    "intent": "documentation_help",
+    "triggers": ["don't have documents", "missing documents", "no itr", "no bank statement", "documents problem", "document issue"],
+    "reply": "Document Issues? We Can Help:\n\nMany customers face document challenges. Here's what we can do:\n\n📋 No ITR? → Some lenders accept salary-only profiles\n📋 No bank statement? → Alternative income proof accepted\n📋 Old ITR? → Latest available may suffice\n📋 New business? → Projected financials may work\n\nWe work with 15+ lenders — each has different requirements. We'll find the one that fits your profile.\n\nCall us at +91 95431 40040 to discuss your specific situation.",
+    "quickReplies": ["Talk to an agent", "Call now"]
+  },
+  {
+    "intent": "compare_loans",
+    "triggers": ["compare", "comparison", "which loan", "which bank", "best bank", "which lender", "compare banks", "best option"],
+    "reply": "That's exactly what we do best!\n\nAs authorised channel partners for 15+ banks & NBFCs, we compare:\n\n✅ Interest rates across all lenders\n✅ Processing fees & hidden charges\n✅ Eligibility requirements\n✅ Disbursal speed\n✅ Prepayment terms\n\nFor example:\n• Home Loan: We compare SBI, HDFC, ICICI, Bank of Baroda, LIC HFL, and more\n• Business Loan: We compare Yes Bank, ICICI, Tata Capital, and more\n\nYou get the best deal — guaranteed.\n\nShare your requirements and we'll find the perfect match.",
+    "quickReplies": ["Get a quote", "Talk to an agent"]
+  },
+  {
+    "intent": "guarantor",
+    "triggers": ["guarantor", "guarantee", "co-applicant", "co borrower", "who needs to sign"],
+    "reply": "Guarantor / Co-Applicant Requirements:\n\n🏠 Home Loan: Co-applicant usually required (spouse/parent)\n💼 Business Loan: May be required for amounts above ₹25 Lakh\n🚗 Car Loan: Not usually required\n🛡️ CGTMSE: No guarantor needed (government guarantee)\n👤 Personal Loan: Not required\n\nA co-applicant's income boosts your eligibility. Their CIBIL score also matters.\n\nNot sure about your specific case? Talk to our team.",
+    "quickReplies": ["Talk to an agent", "Apply now"]
+  },
+  {
+    "intent": "disbursal_time",
+    "triggers": ["how long", "disbursal", "how fast", "time taken", "how much time", "quick disbursal", "urgent", "urgent loan", "fast loan", "need money fast"],
+    "reply": "Disbursal Timeline in Coimbatore:\n\n⚡ Personal Loan: 24–48 hours\n⚡ Car Loan: 2–3 business days\n⚡ Business Loan: 3–5 business days\n⚡ Home Loan: 7–15 business days\n⚡ CGTMSE: 15–30 business days\n⚡ LAP: 10–20 business days\n\nFastest option: Personal loan (if you need money urgently)\nBest rates: Home loan (if you can wait)\n\nWant the fastest option for your situation?",
+    "quickReplies": ["Apply now", "Personal loan", "Talk to an agent"]
+  },
+  {
+    "intent": "document_assistance",
+    "triggers": ["help with documents", "guide documents", "document assistance", "what to submit"],
+    "reply": "We help you with documents at every step:\n\n1️⃣ We tell you exactly what's needed (no more, no less)\n2️⃣ We review your documents before submission\n3️⃣ We help with any corrections or formatting\n4️⃣ We coordinate with the bank for you\n\nThis saves you time and prevents rejection due to document issues.\n\nJust walk into our office or share docs via WhatsApp — we'll handle the rest.",
+    "quickReplies": ["WhatsApp us", "Visit office", "Start application"]
+  },
+  {
+    "intent": "bank_list",
+    "triggers": ["which banks", "banks you work with", "partner banks", "bank list", "nbfc list", "lenders"],
+    "reply": "Banks & NBFCs We Partner With:\n\nWe work with 15+ leading lenders:\n\n🏛️ Banks: SBI, HDFC Bank, ICICI Bank, Bank of Baroda, Canara Bank, Indian Bank, Central Bank\n\n🏢 NBFCs: Tata Capital, Bajaj Finserv, L&T Finance, LIC HFL, PNB Housing\n\nEach has different rates, eligibility, and processes. We compare all to find your best match.\n\nWant to know which lender is best for your profile?",
+    "quickReplies": ["Get a quote", "Compare rates", "Talk to an agent"]
+  },
+  {
+    "intent": "fallback",
+    "triggers": [],
+    "reply": "I'm not sure I understand that specific question. But I can help you with:\n\n• Business, Home, Car, Personal Loans\n• CGTMSE & Collateral-Free Loans\n• Loan Against Property\n• Interest rates & EMI calculation\n• Eligibility & documents\n\nOr connect you with our team who can answer anything:\n📞 +91 95431 40040\n\nWhat would you like to know?",
+    "quickReplies": ["Business Loan", "Home Loan", "Interest rates", "Talk to a human"]
+  }
+]
