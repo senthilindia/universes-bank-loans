@@ -59,6 +59,9 @@ const pageData = {
     { question: 'How do I apply for a CGTMSE loan through Universes?', answer: 'Simply fill out our enquiry form or call us at +91 95431 40040. Our team will guide you through the eligibility check, help with Udyam registration if needed, prepare your application, and connect you with participating lenders.' },
   ],
   preselectedType: 'CGTMSE Loan',
+  loanUrl: '/cgtmse-loan',
+  interestRate: '11%',
+  maxAmount: '5 Crore',
   rateTable: [
     { type: 'CGTMSE (Up to ₹5 Lakh)', rate: '11% onwards', tenure: 'Up to 10 years', amount: 'Up to ₹5 Lakh' },
     { type: 'CGTMSE (₹5–50 Lakh)', rate: '11.5% onwards', tenure: 'Up to 10 years', amount: 'Up to ₹50 Lakh' },

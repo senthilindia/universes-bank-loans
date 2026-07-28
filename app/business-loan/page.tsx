@@ -58,6 +58,9 @@ const pageData = {
     { question: 'Can I get a business loan without collateral?', answer: 'Yes! We offer collateral-free business loans up to ₹50 Lakh based on your business profile and creditworthiness. CGTMSE loans offer up to ₹5 Crore without collateral for MSMEs with Udyam registration.' },
   ],
   preselectedType: 'Business Loan',
+  loanUrl: '/business-loan',
+  interestRate: '11%',
+  maxAmount: '50 Lakh',
   rateTable: [
     { type: 'Term Loan', rate: '11% onwards', tenure: '12–60 months', amount: 'Up to ₹50 Lakh' },
     { type: 'Working Capital', rate: '11% onwards', tenure: 'Revolving', amount: 'Up to ₹50 Lakh' },

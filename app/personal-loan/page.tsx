@@ -58,6 +58,9 @@ const pageData = {
     { question: 'Can I prepay my personal loan?', answer: 'Yes, most lenders allow prepayment after a lock-in period (typically 6–12 months). Some may charge a small prepayment penalty (1–3%). We help you find lenders with the most flexible prepayment terms.' },
   ],
   preselectedType: 'Personal Loan',
+  loanUrl: '/personal-loan',
+  interestRate: '10.5%',
+  maxAmount: '25 Lakh',
   rateTable: [
     { type: 'Salaried Individual', rate: '10.5% onwards', tenure: 'Up to 5 years', amount: 'Up to ₹25 Lakh' },
     { type: 'Self-Employed', rate: '11% onwards', tenure: 'Up to 5 years', amount: 'Up to ₹20 Lakh' },

@@ -59,6 +59,9 @@ const pageData = {
     { question: 'How long does LAP approval take?', answer: 'With Universes, LAP approval typically takes 5-10 working days. This includes property valuation, document verification, and lender approval. Disbursal happens within 2-3 days after approval.' },
   ],
   preselectedType: 'Loan Against Property',
+  loanUrl: '/loan-against-property',
+  interestRate: '9%',
+  maxAmount: '5 Crore',
   rateTable: [
     { type: 'Residential Property', rate: '9% onwards', tenure: 'Up to 15 years', amount: 'Up to ₹5 Crore' },
     { type: 'Commercial Property', rate: '9.5% onwards', tenure: 'Up to 15 years', amount: 'Up to ₹5 Crore' },

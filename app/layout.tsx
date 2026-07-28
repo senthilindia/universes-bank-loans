@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     template: '%s – Universes',
   },
   description: 'Best loan deals in Coimbatore, Tamil Nadu. Universes is an authorised channel partner for 15+ banks & NBFCs. Business loans, home loans, car loans, CGTMSE, collateral-free loans, loan against property. Lowest interest rates. Call +91 95431 40040.',
-  keywords: ['loan in Coimbatore', 'business loan Coimbatore', 'home loan Coimbatore', 'car loan Coimbatore', 'CGTMSE loan Coimbatore', 'collateral free loan Coimbatore', 'mortgage loan Coimbatore', 'loan in Tamil Nadu', 'business loan Tamil Nadu', 'home loan Tamil Nadu', 'personal loan Coimbatore', 'best loan rates Coimbatore', 'NBFC Coimbatore', 'bank loan Coimbatore'],
+  keywords: ['loan in Coimbatore', 'business loan Coimbatore', 'home loan Coimbatore', 'car loan Coimbatore', 'CGTMSE loan Coimbatore', 'collateral free loan Coimbatore', 'mortgage loan Coimbatore', 'personal loan Coimbatore', 'gold loan Coimbatore', 'education loan Coimbatore', 'working capital loan Coimbatore', 'loan against property Coimbatore', 'loan in Tamil Nadu', 'business loan Tamil Nadu', 'home loan Tamil Nadu', 'car loan Tamil Nadu', 'personal loan Tamil Nadu', 'best loan rates Coimbatore', 'NBFC Coimbatore', 'bank loan Coimbatore', 'loan Tirupur', 'loan Erode', 'loan Salem', 'loan Madurai', 'loan Trichy', 'loan Namakkal', 'loan Karur', 'loan Pollachi', 'loan Ooty', 'loan Nilgiris', 'loan Mettupalayam', 'best loan interest rate Tamil Nadu', 'low interest loan Coimbatore', 'quick loan Coimbatore', 'instant loan Tamil Nadu'],
   alternates: {
     canonical: siteUrl,
     languages: {
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Loans in Coimbatore | Business, Home, Car Loan Tamil Nadu – Universes',
-    description: 'Best loan deals in Coimbatore, Tamil Nadu. Authorised channel partner for 15+ banks & NBFCs. Business loans, home loans, car loans, CGTMSE.',
+    description: 'Best loan deals in Coimbatore, Tamil Nadu. Authorised channel partner for 15+ banks & NBFCs. Business loans, home loans, car loans, CGTMSE. Serving Coimbatore, Tirupur, Erode, Salem, Madurai & all of Tamil Nadu.',
     url: siteUrl,
     siteName: 'Universes Bank Loans',
     locale: 'en_IN',

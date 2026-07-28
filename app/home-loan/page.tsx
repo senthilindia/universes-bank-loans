@@ -59,6 +59,9 @@ const pageData = {
     { question: 'Is there a tax benefit on home loans?', answer: 'Yes. Under Section 24(b), you can claim up to ₹2 lakh deduction on home loan interest per year. Under Section 80C, principal repayment is deductible up to ₹1.5 lakh per year. Additional benefits are available under Section 80EEA for first-time buyers.' },
   ],
   preselectedType: 'Home Loan',
+  loanUrl: '/home-loan',
+  interestRate: '8.5%',
+  maxAmount: '10 Crore',
   rateTable: [
     { type: 'Home Purchase', rate: '8.5% onwards', tenure: 'Up to 30 years', amount: 'Up to ₹10 Crore' },
     { type: 'Home Construction', rate: '8.5% onwards', tenure: 'Up to 30 years', amount: 'Up to ₹10 Crore' },

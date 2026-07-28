@@ -58,6 +58,9 @@ const pageData = {
     { question: 'What is the difference between collateral-free loan and CGTMSE?', answer: 'Both are unsecured loans. A regular collateral-free loan is from banks/NBFCs based on your business profile. CGTMSE is a government-backed scheme with a credit guarantee, offering higher amounts (up to ₹5 Crore) and lower rates. We help you choose the best option.' },
   ],
   preselectedType: 'Collateral-Free Loan',
+  loanUrl: '/collateral-free-loan',
+  interestRate: '12%',
+  maxAmount: '50 Lakh',
   rateTable: [
     { type: 'Collateral-Free (Up to ₹10 Lakh)', rate: '12% onwards', tenure: '12–36 months', amount: 'Up to ₹10 Lakh' },
     { type: 'Collateral-Free (₹10–50 Lakh)', rate: '13% onwards', tenure: '12–60 months', amount: 'Up to ₹50 Lakh' },

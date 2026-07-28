@@ -1,7 +1,7 @@
 import TrustStats from '@/components/TrustStats'
 import FAQAccordion from '@/components/FAQAccordion'
 import EnquiryForm from '@/components/EnquiryForm'
-import { faqSchema } from '@/lib/schema'
+import { faqSchema, breadcrumbSchema, loanPageSchema } from '@/lib/schema'
 import { whatsappLink, callLink } from '@/lib/constants'
 
 export interface LoanDetailPageProps {
@@ -17,6 +17,9 @@ export interface LoanDetailPageProps {
   faqs: { question: string; answer: string }[]
   preselectedType: string
   rateTable: { type: string; rate: string; tenure: string; amount: string }[]
+  loanUrl: string
+  interestRate: string
+  maxAmount: string
 }
 
 export default function LoanDetailPage({
@@ -32,10 +35,32 @@ export default function LoanDetailPage({
   faqs,
   preselectedType,
   rateTable,
+  loanUrl,
+  interestRate,
+  maxAmount,
 }: LoanDetailPageProps) {
+  const breadcrumbs = [
+    { name: 'Home', url: 'https://universesloans.com' },
+    { name: 'Loans', url: 'https://universesloans.com' },
+    { name: title, url: `https://universesloans.com${loanUrl}` },
+  ]
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema(faqs)) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema(breadcrumbs)) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(loanPageSchema({ name: title, description, url: `https://universesloans.com${loanUrl}`, interestRate, amount: maxAmount })) }} />
+
+      {/* Breadcrumbs */}
+      <div className="bg-white border-b border-gray-100 py-3">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <nav className="flex items-center gap-2 text-sm text-gray-500">
+            <a href="/" className="hover:text-brand-800 transition">Home</a>
+            <span>/</span>
+            <span className="text-charcoal font-medium">{title}</span>
+          </nav>
+        </div>
+      </div>
 
       {/* Hero */}
       <section className="gradient-brand py-16 md:py-20">

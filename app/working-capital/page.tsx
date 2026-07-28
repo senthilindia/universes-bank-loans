@@ -59,6 +59,9 @@ const pageData = {
     { question: 'What is the maximum working capital limit?', answer: 'The maximum working capital limit depends on your business turnover, operating cycle, and working capital gap. We help you determine the optimal limit and sanction it from the best lender. Limits can range from ₹5 Lakh to ₹5 Crore or more.' },
   ],
   preselectedType: 'OD/CC/DLOD',
+  loanUrl: '/working-capital',
+  interestRate: '11%',
+  maxAmount: '50 Lakh',
   rateTable: [
     { type: 'Overdraft (OD)', rate: '11% onwards', tenure: 'Annual Renewal', amount: 'Up to ₹1 Crore' },
     { type: 'Cash Credit (CC)', rate: '11% onwards', tenure: 'Annual Renewal', amount: 'Up to ₹1 Crore' },

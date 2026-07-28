@@ -57,6 +57,9 @@ const pageData = {
     { question: 'Can I get my gold back before loan repayment?', answer: 'Yes, you can close the loan and get your gold back at any time by repaying the outstanding amount. Some lenders also offer part-release of gold if you make partial repayments.' },
   ],
   preselectedType: 'Gold Loan',
+  loanUrl: '/gold-loan',
+  interestRate: '7%',
+  maxAmount: '1 Crore',
   rateTable: [
     { type: 'Bank Gold Loan', rate: '7% onwards', tenure: '6–36 months', amount: 'Up to ₹50 Lakh' },
     { type: 'NBFC Gold Loan', rate: '9% onwards', tenure: '6–36 months', amount: 'Up to ₹1 Crore' },

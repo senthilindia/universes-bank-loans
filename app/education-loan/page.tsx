@@ -59,6 +59,9 @@ const pageData = {
     { question: 'Is there a tax benefit on education loans?', answer: 'Yes! Under Section 80E of the Income Tax Act, you can claim a deduction on the interest paid on education loan for up to 8 years from the start of repayment. There is no upper limit on the deduction amount.' },
   ],
   preselectedType: 'Education Loan',
+  loanUrl: '/education-loan',
+  interestRate: '9%',
+  maxAmount: '20 Lakh',
   rateTable: [
     { type: 'India (Up to ₹7.5 Lakh)', rate: '9% onwards', tenure: 'Up to 10 years', amount: 'Up to ₹7.5 Lakh' },
     { type: 'India (Above ₹7.5 Lakh)', rate: '10% onwards', tenure: 'Up to 15 years', amount: 'Up to ₹20 Lakh' },

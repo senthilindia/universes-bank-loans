@@ -58,6 +58,9 @@ const pageData = {
     { question: 'How quickly can I get a car loan?', answer: 'Car loan approval can happen within 24 hours with Universes. After approval, the loan amount is disbursed to the dealer within 1-2 working days, and you can drive your car home.' },
   ],
   preselectedType: 'Car Loan',
+  loanUrl: '/car-loan',
+  interestRate: '8.75%',
+  maxAmount: '1 Crore',
   rateTable: [
     { type: 'New Car Loan', rate: '8.75% onwards', tenure: 'Up to 7 years', amount: 'Up to ₹1 Crore' },
     { type: 'Used Car Loan', rate: '10% onwards', tenure: 'Up to 5 years', amount: 'Up to ₹50 Lakh' },
