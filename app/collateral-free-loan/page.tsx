@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Collateral-Free Loan in Coimbatore | Up to ₹50 Lakh – Universes',
-  description: 'Get a collateral-free loan in Coimbatore up to ₹50 Lakh. No assets, no guarantor needed. Quick processing. CGTMSE option for MSMEs. Call +91 95431 40040.',
+  description: 'Get a collateral-free loan in Coimbatore up to ₹50 Lakh. No assets, no guarantor needed. Quick processing. CGTMSE option for MSMEs. Call +91-95854 89999.',
   keywords: ['collateral free loan Coimbatore', 'unsecured business loan', 'no guarantor loan Tamil Nadu', 'without security loan'],
 }
 

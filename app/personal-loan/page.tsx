@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Personal Loan in Coimbatore | Up to ₹25 Lakh – Universes',
-  description: 'Get a personal loan in Coimbatore up to ₹25 Lakh at 10.5% onwards. Quick disbursal, minimal documentation. Authorised channel partner for 15+ banks & NBFCs. Call +91 95431 40040.',
+  description: 'Get a personal loan in Coimbatore up to ₹25 Lakh at 10.5% onwards. Quick disbursal, minimal documentation. Authorised channel partner for 15+ banks & NBFCs. Call +91-95854 89999.',
   keywords: ['personal loan Coimbatore', 'personal loan Tamil Nadu', 'quick personal loan', 'unsecured loan Coimbatore'],
 }
 

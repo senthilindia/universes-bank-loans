@@ -56,7 +56,7 @@
   {
     "intent": "process",
     "triggers": ["how to apply", "process", "application process", "how it works", "steps", "how does it work", "procedure"],
-    "reply": "Simple 4-Step Process:\n\n1️⃣ Fill the enquiry form or call us at +91 95431 40040\n2️⃣ Share your documents (we guide you on what's needed)\n3️⃣ We compare offers from multiple banks & NBFCs\n4️⃣ Get funds disbursed in as fast as 48 hours\n\nWe handle all the paperwork, negotiations, and follow-ups — completely free of charge.\n\nOur office: 105, Annapurna Layout, New Siddhapudur, Coimbatore – 641044",
+    "reply": "Simple 4-Step Process:\n\n1️⃣ Fill the enquiry form or call us at +91-95854 89999\n2️⃣ Share your documents (we guide you on what's needed)\n3️⃣ We compare offers from multiple banks & NBFCs\n4️⃣ Get funds disbursed in as fast as 48 hours\n\nWe handle all the paperwork, negotiations, and follow-ups — completely free of charge.\n\nOur office: 105, Annapurna Layout, New Siddhapudur, Coimbatore – 641044",
     "quickReplies": ["Start application", "Talk to an agent", "WhatsApp us"]
   },
   {
@@ -68,7 +68,7 @@
   {
     "intent": "contact",
     "triggers": ["contact", "phone number", "call", "whatsapp", "reach", "office address", "where are you", "location", "address", "coimbatore office"],
-    "reply": "Contact Universes — Coimbatore:\n\n📞 Phone: +91 95431 40040\n📱 WhatsApp: +91 95431 40040\n☎️ Landline: 0422 4203999\n\n📍 105/1, Annapurna Layout, New Siddhapudur, Coimbatore – 641044, Tamil Nadu\n\n🕐 Monday to Saturday: 9:30 AM – 6:30 PM\n🌐 universesloans.com\n\nWe're located in the heart of Coimbatore, easily accessible from all parts of the city.",
+    "reply": "Contact Universes — Coimbatore:\n\n📞 Phone: +91-95854 89999\n📱 WhatsApp: +91-95854 89999\n☎️ Landline: 0422 4203999\n\n📍 105/1, Annapurna Layout, New Siddhapudur, Coimbatore – 641044, Tamil Nadu\n\n🕐 Monday to Saturday: 9:30 AM – 6:30 PM\n🌐 universesloans.com\n\nWe're located in the heart of Coimbatore, easily accessible from all parts of the city.",
     "quickReplies": ["Call now", "WhatsApp us", "Get directions"]
   },
   {
@@ -134,19 +134,19 @@
   {
     "intent": "coimbatore_specific",
     "triggers": ["coimbatore", "kovai", "tamil nadu", "tn", "local", "near me", "nearby", "in coimbatore"],
-    "reply": "Loans in Coimbatore — Universes is Your Local Expert:\n\nWe know Coimbatore's lending landscape intimately. Whether you're in:\n\n📍 RS Puram, Peelamedu, Singanallur, Gandhipuram, Saibaba Colony, or any part of Coimbatore\n\nWe serve all areas with:\n✅ Personal consultation at our office or your location\n✅ Relationships with 15+ banks & NBFCs in Tamil Nadu\n✅ Faster processing (we know the local branch managers)\n✅ Coimbatore-specific interest rates and schemes\n\nOur office: 105/1, Annapurna Layout, New Siddhapudur, Coimbatore – 641044\n\nCall: +91 95431 40040",
+    "reply": "Loans in Coimbatore — Universes is Your Local Expert:\n\nWe know Coimbatore's lending landscape intimately. Whether you're in:\n\n📍 RS Puram, Peelamedu, Singanallur, Gandhipuram, Saibaba Colony, or any part of Coimbatore\n\nWe serve all areas with:\n✅ Personal consultation at our office or your location\n✅ Relationships with 15+ banks & NBFCs in Tamil Nadu\n✅ Faster processing (we know the local branch managers)\n✅ Coimbatore-specific interest rates and schemes\n\nOur office: 105/1, Annapurna Layout, New Siddhapudur, Coimbatore – 641044\n\nCall: +91-95854 89999",
     "quickReplies": ["Visit office", "Call now", "WhatsApp us"]
   },
   {
     "intent": "whatsapp",
     "triggers": ["whatsapp", "message on whatsapp", "chat on whatsapp", "whatsapp number", "wa.me"],
-    "reply": "Connect with us on WhatsApp:\n\n📱 +91 95431 40040\n\nYou can chat with our team directly for:\n• Quick loan consultation\n• Document submission\n• Rate comparison\n• Any loan-related queries\n\nClick below to start chatting!",
+    "reply": "Connect with us on WhatsApp:\n\n📱 +91-95854 89999\n\nYou can chat with our team directly for:\n• Quick loan consultation\n• Document submission\n• Rate comparison\n• Any loan-related queries\n\nClick below to start chatting!",
     "quickReplies": ["Open WhatsApp", "Call instead"]
   },
   {
     "intent": "apply_now",
     "triggers": ["apply", "apply now", "start application", "enquiry", "enquiry form", "fill form", "get started", "register"],
-    "reply": "Great! Let's get started:\n\n📝 Fill our quick enquiry form — takes just 2 minutes.\n\nOr call us directly:\n📞 +91 95431 40040\n\nWe'll get back to you within 2 hours with the best loan options.\n\nNo obligation. No charges. Just expert advice.",
+    "reply": "Great! Let's get started:\n\n📝 Fill our quick enquiry form — takes just 2 minutes.\n\nOr call us directly:\n📞 +91-95854 89999\n\nWe'll get back to you within 2 hours with the best loan options.\n\nNo obligation. No charges. Just expert advice.",
     "quickReplies": ["Go to form", "Call now", "WhatsApp us"]
   },
   {
@@ -176,7 +176,7 @@
   {
     "intent": "documentation_help",
     "triggers": ["don't have documents", "missing documents", "no itr", "no bank statement", "documents problem", "document issue"],
-    "reply": "Document Issues? We Can Help:\n\nMany customers face document challenges. Here's what we can do:\n\n📋 No ITR? → Some lenders accept salary-only profiles\n📋 No bank statement? → Alternative income proof accepted\n📋 Old ITR? → Latest available may suffice\n📋 New business? → Projected financials may work\n\nWe work with 15+ lenders — each has different requirements. We'll find the one that fits your profile.\n\nCall us at +91 95431 40040 to discuss your specific situation.",
+    "reply": "Document Issues? We Can Help:\n\nMany customers face document challenges. Here's what we can do:\n\n📋 No ITR? → Some lenders accept salary-only profiles\n📋 No bank statement? → Alternative income proof accepted\n📋 Old ITR? → Latest available may suffice\n📋 New business? → Projected financials may work\n\nWe work with 15+ lenders — each has different requirements. We'll find the one that fits your profile.\n\nCall us at +91-95854 89999 to discuss your specific situation.",
     "quickReplies": ["Talk to an agent", "Call now"]
   },
   {
@@ -212,7 +212,7 @@
   {
     "intent": "fallback",
     "triggers": [],
-    "reply": "I'm not sure I understand that specific question. But I can help you with:\n\n• Business, Home, Car, Personal Loans\n• CGTMSE & Collateral-Free Loans\n• Loan Against Property\n• Interest rates & EMI calculation\n• Eligibility & documents\n\nOr connect you with our team who can answer anything:\n📞 +91 95431 40040\n\nWhat would you like to know?",
+    "reply": "I'm not sure I understand that specific question. But I can help you with:\n\n• Business, Home, Car, Personal Loans\n• CGTMSE & Collateral-Free Loans\n• Loan Against Property\n• Interest rates & EMI calculation\n• Eligibility & documents\n\nOr connect you with our team who can answer anything:\n📞 +91-95854 89999\n\nWhat would you like to know?",
     "quickReplies": ["Business Loan", "Home Loan", "Interest rates", "Talk to a human"]
   }
 ]

@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Education Loan in Coimbatore | Up to ₹20 Lakh – Universes',
-  description: 'Get an education loan in Coimbatore up to ₹20 Lakh at 9% onwards. For studies in India and abroad. Moratorium period available. Call +91 95431 40040.',
+  description: 'Get an education loan in Coimbatore up to ₹20 Lakh at 9% onwards. For studies in India and abroad. Moratorium period available. Call +91-95854 89999.',
   keywords: ['education loan Coimbatore', 'education loan Tamil Nadu', 'student loan', 'study loan India abroad'],
 }
 

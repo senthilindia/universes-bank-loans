@@ -7,7 +7,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Business Loan & Collateral-Free Loan in Coimbatore | CGTMSE – Universes',
-  description: 'Get business loans, CGTMSE loans, collateral-free loans, and OD/CC/DLOD facilities in Coimbatore. Authorised channel partner for banks & NBFCs. Call +91 95431 40040.',
+  description: 'Get business loans, CGTMSE loans, collateral-free loans, and OD/CC/DLOD facilities in Coimbatore. Authorised channel partner for banks & NBFCs. Call +91-95854 89999.',
   keywords: ['business loan Coimbatore', 'collateral free loan Coimbatore', 'CGTMSE loan Coimbatore', 'OD CC DLOD Coimbatore', 'business loan Tamil Nadu'],
 }
 
@@ -45,7 +45,7 @@ export default function BusinessCollateralPage() {
                   Apply Now
                 </a>
                 <a href={callLink()} className="border-2 border-white/40 text-white font-semibold px-8 py-4 rounded-xl text-lg hover:bg-white/10 transition text-center">
-                  Call +91 95431 40040
+                  Call +91-95854 89999
                 </a>
               </div>
             </div>

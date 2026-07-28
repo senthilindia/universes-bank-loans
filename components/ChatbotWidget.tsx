@@ -38,7 +38,7 @@ function findReply(input: string): { reply: string; quickReplies?: string[] } {
   }
 
   const fallback = intents.find((i) => i.intent === 'fallback')
-  return { reply: fallback?.reply || "I'm not sure about that. Please call us at +91 95431 40040.", quickReplies: fallback?.quickReplies }
+  return { reply: fallback?.reply || "I'm not sure about that. Please call us at +91-95854 89999.", quickReplies: fallback?.quickReplies }
 }
 
 function quickReplyToAction(reply: string): { type: 'link' | 'input'; value: string } | null {

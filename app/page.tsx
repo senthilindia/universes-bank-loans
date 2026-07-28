@@ -199,7 +199,7 @@ const faqs = [
   },
   {
     question: 'How can I get a business loan in Coimbatore without collateral?',
-    answer: 'Universes specialises in collateral-free business loans up to ₹5 Crore in Coimbatore. We work with multiple banks and NBFCs that offer unsecured business loans based on your turnover, business vintage, and CIBIL score. Contact us at +91 95431 40040 to explore your options.',
+    answer: 'Universes specialises in collateral-free business loans up to ₹5 Crore in Coimbatore. We work with multiple banks and NBFCs that offer unsecured business loans based on your turnover, business vintage, and CIBIL score. Contact us at +91-95854 89999 to explore your options.',
   },
   {
     question: 'What documents are needed for a car loan in Tamil Nadu?',
@@ -227,11 +227,11 @@ const faqs = [
   },
   {
     question: 'What are the tax benefits on home loans in India?',
-    answer: 'Under Section 24(b), you can claim up to ₹2 lakh interest deduction on a self-occupied home loan. Under Section 80C, you can claim up to ₹1.5 lakh on principal repayment. For a detailed assessment based on your situation, contact our advisors at +91 95431 40040.',
+    answer: 'Under Section 24(b), you can claim up to ₹2 lakh interest deduction on a self-occupied home loan. Under Section 80C, you can claim up to ₹1.5 lakh on principal repayment. For a detailed assessment based on your situation, contact our advisors at +91-95854 89999.',
   },
   {
     question: 'Do you provide loan services in other cities of Tamil Nadu?',
-    answer: 'Yes, Universes serves multiple cities across Tamil Nadu including Coimbatore, Tirupur, Erode, Salem, and Mettupalayam. Our network of 15+ banking partners ensures competitive loan options across the state. Call us at +91 95431 40040 to discuss your requirements.',
+    answer: 'Yes, Universes serves multiple cities across Tamil Nadu including Coimbatore, Tirupur, Erode, Salem, and Mettupalayam. Our network of 15+ banking partners ensures competitive loan options across the state. Call us at +91-95854 89999 to discuss your requirements.',
   },
 ]
 

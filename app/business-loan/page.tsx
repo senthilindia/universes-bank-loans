@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Business Loan in Coimbatore | Up to ₹50 Lakh – Universes',
-  description: 'Get a business loan in Coimbatore up to ₹50 Lakh at 11% onwards. Quick disbursal within 48 hours. CGTMSE and collateral-free options. Call +91 95431 40040.',
+  description: 'Get a business loan in Coimbatore up to ₹50 Lakh at 11% onwards. Quick disbursal within 48 hours. CGTMSE and collateral-free options. Call +91-95854 89999.',
   keywords: ['business loan Coimbatore', 'business loan Tamil Nadu', 'MSME loan', 'SME loan Coimbatore'],
 }
 

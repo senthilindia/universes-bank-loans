@@ -7,7 +7,7 @@ export function localBusinessSchema() {
     name: COMPANY.fullName,
     description: 'Best loan deals in Coimbatore, Tamil Nadu. Universes is an authorised channel partner for 15+ banks & NBFCs. Business loans, home loans, car loans, CGTMSE, collateral-free loans, loan against property. Lowest interest rates.',
     url: 'https://universesloans.com',
-    telephone: '+919543140040',
+    telephone: '+91-95854 89999',
     email: contact.email,
     priceRange: '₹',
     image: 'https://universesloans.com/universes-logo.png',
@@ -152,7 +152,7 @@ export function loanPageSchema({
       '@type': 'FinancialService',
       name: COMPANY.fullName,
       url: 'https://universesloans.com',
-      telephone: '+919543140040',
+      telephone: '+91-95854 89999',
     },
     amount: {
       '@type': 'MonetaryAmount',

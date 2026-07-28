@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Loan Against Property in Coimbatore | Up to ₹5 Crore – Universes',
-  description: 'Get a loan against property in Coimbatore up to ₹5 Crore at 9% onwards. Use your residential or commercial property as collateral. No end-use restriction. Call +91 95431 40040.',
+  description: 'Get a loan against property in Coimbatore up to ₹5 Crore at 9% onwards. Use your residential or commercial property as collateral. No end-use restriction. Call +91-95854 89999.',
   keywords: ['loan against property Coimbatore', 'LAP loan Tamil Nadu', 'mortgage loan Coimbatore', 'property loan'],
 }
 

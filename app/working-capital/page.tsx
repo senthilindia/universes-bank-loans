@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Working Capital Loan in Coimbatore | OD/CC/DLOD – Universes',
-  description: 'Get working capital loans in Coimbatore — OD, CC, and DLOD facilities for businesses. Flexible limits, interest only on utilized amount. Call +91 95431 40040.',
+  description: 'Get working capital loans in Coimbatore — OD, CC, and DLOD facilities for businesses. Flexible limits, interest only on utilized amount. Call +91-95854 89999.',
   keywords: ['working capital loan Coimbatore', 'OD CC DLOD Tamil Nadu', 'business overdraft', 'cash credit Coimbatore'],
 }
 

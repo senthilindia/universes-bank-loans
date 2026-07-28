@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Car Loan in Coimbatore | Up to ₹1 Crore – Universes',
-  description: 'Get a car loan in Coimbatore up to ₹1 Crore at 8.75% onwards. 100% financing available. New & used car loans. Quick approval. Call +91 95431 40040.',
+  description: 'Get a car loan in Coimbatore up to ₹1 Crore at 8.75% onwards. 100% financing available. New & used car loans. Quick approval. Call +91-95854 89999.',
   keywords: ['car loan Coimbatore', 'car loan Tamil Nadu', 'new car loan', 'used car loan', 'auto loan Coimbatore'],
 }
 

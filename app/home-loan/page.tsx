@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Home Loan in Coimbatore | Up to ₹10 Crore – Universes',
-  description: 'Get a home loan in Coimbatore up to ₹10 Crore at 8.5% onwards. Long tenure up to 30 years. Balance transfer available. Authorised channel partner. Call +91 95431 40040.',
+  description: 'Get a home loan in Coimbatore up to ₹10 Crore at 8.5% onwards. Long tenure up to 30 years. Balance transfer available. Authorised channel partner. Call +91-95854 89999.',
   keywords: ['home loan Coimbatore', 'home loan Tamil Nadu', 'home loan balance transfer', 'housing loan Coimbatore'],
 }
 

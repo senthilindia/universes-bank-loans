@@ -81,7 +81,7 @@ export default function LoanDetailPage({
                   Apply Now
                 </a>
                 <a href={callLink()} className="border-2 border-white/40 text-white font-semibold px-8 py-4 rounded-xl text-lg hover:bg-white/10 transition text-center">
-                  Call +91 95431 40040
+                  Call +91-95854 89999
                 </a>
               </div>
             </div>

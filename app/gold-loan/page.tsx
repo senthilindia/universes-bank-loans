@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Gold Loan in Coimbatore | Quick Funding – Universes',
-  description: 'Get a gold loan in Coimbatore at 7% onwards. Quick funding, minimal documentation, no credit score requirement. Pledge gold jewelry and get instant funds. Call +91 95431 40040.',
+  description: 'Get a gold loan in Coimbatore at 7% onwards. Quick funding, minimal documentation, no credit score requirement. Pledge gold jewelry and get instant funds. Call +91-95854 89999.',
   keywords: ['gold loan Coimbatore', 'gold loan Tamil Nadu', 'gold jewelry loan', 'instant gold loan'],
 }
 

@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'CGTMSE Loan in Coimbatore | Collateral-Free up to ₹5 Crore – Universes',
-  description: 'Get a CGTMSE loan in Coimbatore up to ₹5 Crore, 100% collateral-free. Government-backed credit guarantee for MSMEs. Apply now. Call +91 95431 40040.',
+  description: 'Get a CGTMSE loan in Coimbatore up to ₹5 Crore, 100% collateral-free. Government-backed credit guarantee for MSMEs. Apply now. Call +91-95854 89999.',
   keywords: ['CGTMSE loan Coimbatore', 'CGTMSE Tamil Nadu', 'collateral free MSME loan', 'government loan MSME'],
 }
 
@@ -56,7 +56,7 @@ const pageData = {
     { question: 'Who is eligible for CGTMSE loan?', answer: 'Any MSME with a valid Udyam Registration Certificate (URC) can apply. This includes manufacturing, service, and trading businesses. Existing businesses should have at least 1 year of operations, and new businesses should have a viable business plan.' },
     { question: 'What is the maximum CGTMSE loan amount?', answer: 'The maximum loan amount under CGTMSE is ₹5 Crore. However, the exact amount depends on your business requirements, turnover, and repayment capacity. The guarantee cover is up to 85% of the loan amount.' },
     { question: 'Do I need collateral for CGTMSE loan?', answer: 'No! CGTMSE loans are 100% collateral-free. You do not need to pledge any assets or provide any third-party guarantee. The government credit guarantee covers the lender against default.' },
-    { question: 'How do I apply for a CGTMSE loan through Universes?', answer: 'Simply fill out our enquiry form or call us at +91 95431 40040. Our team will guide you through the eligibility check, help with Udyam registration if needed, prepare your application, and connect you with participating lenders.' },
+    { question: 'How do I apply for a CGTMSE loan through Universes?', answer: 'Simply fill out our enquiry form or call us at +91-95854 89999. Our team will guide you through the eligibility check, help with Udyam registration if needed, prepare your application, and connect you with participating lenders.' },
   ],
   preselectedType: 'CGTMSE Loan',
   loanUrl: '/cgtmse-loan',

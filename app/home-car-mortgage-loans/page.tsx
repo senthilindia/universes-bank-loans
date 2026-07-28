@@ -7,7 +7,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Home Loan, Car Loan & Mortgage Loan in Coimbatore – Universes',
-  description: 'Get home loans, car loans, and loan against property in Coimbatore at competitive interest rates. Authorised channel partner. Call +91 95431 40040.',
+  description: 'Get home loans, car loans, and loan against property in Coimbatore at competitive interest rates. Authorised channel partner. Call +91-95854 89999.',
   keywords: ['home loan Coimbatore', 'car loan Coimbatore', 'mortgage loan Coimbatore', 'loan against property Coimbatore', 'home loan Tamil Nadu'],
 }
 
@@ -45,7 +45,7 @@ export default function HomeCarMortgagePage() {
                   Apply Now
                 </a>
                 <a href={callLink()} className="border-2 border-white/40 text-white font-semibold px-8 py-4 rounded-xl text-lg hover:bg-white/10 transition text-center">
-                  Call +91 95431 40040
+                  Call +91-95854 89999
                 </a>
               </div>
             </div>
