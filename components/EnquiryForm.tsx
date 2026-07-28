@@ -34,7 +34,7 @@ export default function EnquiryForm({ preselectedType }: { preselectedType?: str
     setErrorMsg('')
 
     try {
-      const res = await fetch('/api/enquiry', {
+      const res = await fetch('/api/enquiry.php', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ name, mobile, loanType, loanAmount, message }),

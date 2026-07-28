@@ -14,7 +14,7 @@ export const contact = {
 
 export const socialLinks = {
   instagram: 'https://www.instagram.com/universes_globalexpansion?utm_source=qr&igsh=M2Fja3BqaGdpN2Rv',
-  facebook: 'https://www.facebook.com/universesloans',
+  facebook: 'https://www.facebook.com/share/15zjoYBxkse/',
   linkedin: 'https://www.linkedin.com/company/universesloans',
   youtube: 'https://www.youtube.com/@universesloans',
 }
