@@ -70,7 +70,7 @@ if (!file_exists($csvFile)) {
 }
 file_put_contents($csvFile, $csvLine, FILE_APPEND | LOCK_EX);
 
-$to = 'info@universesloans.com';
+$to = 'sharma@universesloans.com';
 $subject = "New Enquiry: {$loanType} - {$name}";
 $body = "New Loan Enquiry\n\n";
 $body .= "Name: {$name}\n";
